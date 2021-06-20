@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LesDatasdeSouf
+- 👋 Hi, I’m Soufiane Aït
 - 👀 I’m interested in Data, Machine Learning, Marketing & Psychology
 - 🌱 I’m currently learning SQL & Python to use on Data Analytics projects
 - 💞️ I’m looking to collaborate on anything interesting and ambitious, related to finance, marketing or mental health
